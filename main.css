@@ -25,5 +25,9 @@ ul {
 }
 
 .image-caption {
-	text-align: center;
+ 	text-align: center
 }
+
+.image-number {
+	float: left;
+ }
