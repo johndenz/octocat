@@ -1,5 +1,5 @@
 .octocat img {
-	width: 300px;
+	width: 350px;
 	border: 1px solid #CFCFCF;
 	align: right ;
 }
@@ -22,12 +22,15 @@ ul {
 .image-footer: after {
 	content: "#";
 	float: left;
+	color: gray;
 }
 
 .image-caption {
- 	text-align: center
+ 	text-align: center;
+ 	color: gray;
 }
 
 .image-number {
 	float: left;
+	color: gray;
  }
