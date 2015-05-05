@@ -1,22 +1,27 @@
 .octocat img {
 	width: 300px;
 	border: 1px solid #CFCFCF;
+	align: center ;
 }
 
 .authors img {
-	width: 25px;
+	width: 30px;
 	float: right;
 }
 
 .octocat {
 	float: left;
 	border:;
+	padding: 10px;
 }
 
 ul {
 	list-style: none;
 }
 
-.image-number: before {
+.image-footer: after {
 	content: "#";
+	float: left;
 }
+
+
