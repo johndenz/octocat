@@ -1,7 +1,7 @@
 .octocat img {
 	width: 300px;
 	border: 1px solid #CFCFCF;
-	align: center ;
+	align: right ;
 }
 
 .authors img {
@@ -24,4 +24,6 @@ ul {
 	float: left;
 }
 
-
+.image-caption {
+	text-align: center;
+}
